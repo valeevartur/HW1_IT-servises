@@ -101,33 +101,10 @@ https://hostadvice.com/marketshare/server/
 ![image](https://github.com/valeevartur/HW1_IT-servises/assets/163173033/3872f561-eb6b-4d64-83e7-6c71dbcddab4)
 https://blog.logrocket.com/comparing-best-web-servers-caddy-apache-nginx/
 
-## Использование веб-серверов (измеряемые показатели: ось x - дата, ось y - количество пользователей, выраженное в миллионах)
+## Использование веб-серверов (измеряемые показатели: ось x - дата, ось y - количество пользователей)
 ![image](https://github.com/valeevartur/HW1_IT-servises/assets/163173033/134c872f-70d2-4ec5-8a87-1aabe3eb8975)
 
 https://operavps.com/blog/caddy-vs-nginx-vs-apache/
-
-## Отказоустойчивость
-![10 клиентов рисунок](https://github.com/valeevartur/HW1_IT-servises/assets/163173033/cbd97be9-dacd-4a99-8c5f-6ed62d8e469a)
-
-Нагрузка при 10 клиентах
-
-![200 клиентов](https://github.com/valeevartur/HW1_IT-servises/assets/163173033/ad5543c4-f4a3-4b8c-b597-2a2ffc8a1d94)
-
-Нагрузка при 200 клиентах
-
-![500 клиентов](https://github.com/valeevartur/HW1_IT-servises/assets/163173033/63c1b0a4-3dc9-4d2f-a569-45d95147066e)
-
-Нагрузка при 500 клиентах
-
-![1000 клиентов](https://github.com/valeevartur/HW1_IT-servises/assets/163173033/06ab95d3-14bc-4fd1-9f12-83e2ef549454)
-
-Нагрузка при 1000 клиентах
-
-![10000 клиентов](https://github.com/valeevartur/HW1_IT-servises/assets/163173033/e17b2d54-7219-45e0-abe1-fc39c8d35a6f)
-
-Нагрузка при 10000 клиентах
-
-https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/
 
 ## Google Trends
 ![Servers](https://github.com/valeevartur/HW1_IT-servises/assets/163173033/a0d1e939-fb0c-488a-9b59-eb8f1d774ab7)
